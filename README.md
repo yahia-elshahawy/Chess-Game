@@ -72,4 +72,4 @@ You can undo or redo a move by hitting the keys U,R respectively on your keyboar
 
 
 ## Credits:
-### contributor [Muhamed Murad](https://github.com//yahia-elshahawy)
+### contributor [Yahia Elshahawy](https://github.com//yahia-elshahawy)
