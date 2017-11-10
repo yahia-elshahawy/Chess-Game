@@ -12,7 +12,7 @@ A two player chess game implemented by C language with console interface.
 
 ### When you start a new game you're prompted to enter the players name (players are obliged to choose differnet names).
 
-![[playersname](https://raw.githubusercontent.com/youssef-ahmed/Chess-Game/master/snap_player_names.PNG)
+![playersname](https://raw.githubusercontent.com/youssef-ahmed/Chess-Game/master/snap_player_names.PNG)
 
 ### After this step, the board appears with the following parts:
 * The tomb: in the upper part lies the tomb where each player's captured pieces are listed.
